@@ -4,7 +4,7 @@ Proof of concept from upcoming elysia plugin, which will be integration for `Buc
 Very simple chat application
 
 > ⚠️ Because Buchta 0.6 is still not out yet, you'll have to manually download it<br>
-> ❌Make sure you are using latest canary bun!!!!
+> ⚠️ Make sure you are using latest canary bun!!!!
 
 1. `bun i`
 2. `cd node_modules`
