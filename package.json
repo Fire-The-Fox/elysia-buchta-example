@@ -1,0 +1,19 @@
+{
+  "name": "elysia-buchta",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^0.3.0",
+    "@elysiajs/eden": "^0.4.1",
+    "@types/marked": "^4.0.8",
+    "elysia": "^0.4.9",
+    "marked": "^4.3.0",
+    "svelte": "^3.58.0"
+  }
+}
