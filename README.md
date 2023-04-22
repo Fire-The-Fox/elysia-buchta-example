@@ -1,6 +1,6 @@
 # elysia-buchta
 
-Proof of concept of upcoming elysia plugin, which will be integration for `Buchta`
+Proof of concept from upcoming elysia plugin, which will be integration for `Buchta`
 Very simple chat application
 
 > ⚠️ Because Buchta 0.6 is still not out yet, you'll have to manually download it
